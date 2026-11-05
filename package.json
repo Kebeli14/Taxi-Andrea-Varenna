@@ -1,0 +1,1 @@
+{"name":"taxi-andrea-varenna-redesign","version":"3.0.0","private":true,"type":"module","description":"Responsive bilingual Taxi Andrea Varenna website — no dependencies","scripts":{"dev":"node preview.mjs","start":"node preview.mjs","generate":"python source/generate.py"}}
